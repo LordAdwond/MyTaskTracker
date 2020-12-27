@@ -1,0 +1,10 @@
+exit, quit           - exit from program
+addDesk, createDesk  - create desk
+removeDesk, dropDesk - drop desk
+deskData             - details of desk
+addTask              - add task into desk
+removeTask, dropTask - drop task
+changeTaskName       - change task name
+changeDeskName       - change desk name
+changeTaskData       - change task data
+taskList             - list if tasks
